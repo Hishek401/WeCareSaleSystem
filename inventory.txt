@@ -1,0 +1,20 @@
+Facial Cleanser       , Dermaclear   ,117,1000, USA
+
+Soothing Gel          , CalmCare     ,200,670, South Korea
+
+BB Cream              , NudeGlow     ,120,880, France
+
+Pore Minimizer        , ClearTight   ,100,560, Switzerland
+
+Facial Mist           , Mistique     ,180,620, Australia
+
+Under Eye Cream       , EyeBright    ,90,1100, UK
+
+Scar Treatment Gel    , ScarAway     ,140,980, Canada
+
+Skin Brightener       , RadianceFX   ,150,890, Germany
+
+Anti-Pollution Cream  , UrbanShield  ,170,770, India
+
+SPF Moisturizer       , SunGuard     ,130,840, Italy
+
