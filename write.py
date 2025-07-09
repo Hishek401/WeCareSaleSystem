@@ -1,4 +1,5 @@
 # write.py
+#new branch crated 
 from datetime import datetime
 
 def save_products(products, filename="inventory.txt"):
