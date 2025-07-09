@@ -1,7 +1,7 @@
 # write.py
-#new branch crated
-#990 
-#uhf
+#new branch crated 
+#Hishek Yonjan
+#new branch shishir 
 from datetime import datetime
 
 def save_products(products, filename="inventory.txt"):
