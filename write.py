@@ -1,6 +1,7 @@
 # write.py
 #new branch crated 
 #Hishek Yonjan
+#new branch shishir 
 from datetime import datetime
 
 def save_products(products, filename="inventory.txt"):
@@ -22,7 +23,7 @@ def save_products(products, filename="inventory.txt"):
 
 def generate_invoice(invoice_type, details, items):
     """
-    Generates a sale or restock invoice, prints it to the terminal, and saves it to a text file.
+    Generates a sale or restock invoice, prints it to the terminal, and savegis it to a text file.
 
     Parameters:
     invoice_type (str): Either 'sales' or 'restock'.
